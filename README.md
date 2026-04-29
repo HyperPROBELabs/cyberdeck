@@ -1,3 +1,5 @@
+<img src="./images/cyberdeck-logo.png" width="80%">
+
 # Cyberdeck
 
 A modular, open cyberdeck platform by **Kali Assistant**
@@ -15,6 +17,20 @@ Cyberdeck is an open hardware + software platform designed for:
 * RF / networking / low-level development
 
 The project focuses on **modularity**, **repairability**, and **hackability**.
+
+---
+
+## Repositories
+
+### Hardware
+
+* **cyberdeck-hw**
+  PCB designs, mechanical integration, and production files
+  [https://github.com/HyperPROBELabs/cyberdeck-hw](https://github.com/HyperPROBELabs/cyberdeck-hw)
+
+### Software
+
+* **(this repo)**
 
 ---
 
@@ -75,6 +91,13 @@ Before submitting:
 
 ---
 
+## Notes
+
+This is an evolving project.
+Expect changes, redesigns, and experimental components.
+
+---
+
 ## Disclaimer
 
 This project is provided **AS IS**, without warranty of any kind.
@@ -82,18 +105,5 @@ Use at your own risk.
 
 ---
 
-## Author
-
-Kali Assistant
-
-HyperPROBE Labs
-
----
-
-## Notes
-
-This is an evolving project.
-Expect changes, redesigns, and experimental components.
-
----
+Copyright (c) 2026 HyperPROBE Labs, Kali Assistant. All Rights Reserved.
 

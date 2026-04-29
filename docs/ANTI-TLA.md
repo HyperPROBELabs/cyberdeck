@@ -164,3 +164,7 @@ This document is a conceptual exploration of system design, threat modeling, and
 Any implementation of concepts described here must comply with applicable local laws and regulations. Security mechanisms involving data destruction, hardware modification, or firmware alteration carry significant risk, including irreversible data loss and potential device failure.
 
 This material is provided for educational and research purposes only.
+
+---
+
+Copyright (c) 2026 HyperPROBE Labs, Kali Assistant. All Rights Reserved.
